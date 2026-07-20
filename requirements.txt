@@ -1,7 +1,5 @@
 streamlit
-datetime
 pillow
 folium
-streamlit_folium
+streamlit-folium
 piexif
-io
