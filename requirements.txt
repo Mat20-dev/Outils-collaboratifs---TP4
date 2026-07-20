@@ -1,6 +1,6 @@
 streamlit
 datetime
-PIL
+pillow
 folium
 streamlit_folium
 piexif
